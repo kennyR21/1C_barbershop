@@ -74,7 +74,7 @@
 
 📸 **Журнал и проведение расчетных документов (Продажа):**
 
-<img width="1755" height="962" alt="Продажа" src="https://github.com" />
+![image alt](https://github.com/kennyR21/1C_barbershop/blob/41032f869250c9a665e28093bb49d3f7ac124051/%D0%9F%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B0.gif)
 
 ---
 
